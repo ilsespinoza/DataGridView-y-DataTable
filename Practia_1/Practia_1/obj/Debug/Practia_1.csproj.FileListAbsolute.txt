@@ -1,0 +1,21 @@
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.AssemblyReference.cache
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.PRODUCTOS.resources
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.Properties.Resources.resources
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.GenerateResource.cache
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.CoreCompileInputs.cache
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\bin\Debug\Practia_1.exe.config
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\bin\Debug\Practia_1.exe
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\bin\Debug\Practia_1.pdb
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.exe
+C:\Users\ilsee\source\repos\Practia_1\Practia_1\obj\Debug\Practia_1.pdb
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\bin\Debug\Practia_1.exe.config
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\bin\Debug\Practia_1.exe
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\bin\Debug\Practia_1.pdb
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.AssemblyReference.cache
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.PRODUCTOS.resources
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.Properties.Resources.resources
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.GenerateResource.cache
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.csproj.CoreCompileInputs.cache
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.exe
+C:\Users\Ilse Espinoza\Desktop\SEMESTRE_VI\G.C.S\Practia_1_IlseEspinozaFlores\Practia_1\Practia_1\obj\Debug\Practia_1.pdb
